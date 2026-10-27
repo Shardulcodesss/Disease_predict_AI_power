@@ -59,4 +59,4 @@ symptom_columns.pkl	List of symptom columns the model expects as input
 README.md	You're reading it
 👤 Author
 
-Yogesh — AIML Student Built as part of an ML coursework assignment, extended as a portfolio project.
+Shardul — AIML Student Built as part of an ML coursework assignment, extended as a portfolio project.
